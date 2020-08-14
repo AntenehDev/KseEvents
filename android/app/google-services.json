@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028516352239",
+    "firebase_url": "https://kse-events-dev.firebaseio.com",
+    "project_id": "kse-events-dev",
+    "storage_bucket": "kse-events-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028516352239:android:d32b361fa4eae6d7130b1a",
+        "android_client_info": {
+          "package_name": "com.example.KseEvents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028516352239-hnboc3o719658ahbm4g6akdi84nie7uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.KseEvents",
+            "certificate_hash": "278b343ddb65b80c997819f785897341a4b30b87"
+          }
+        },
+        {
+          "client_id": "1028516352239-hv91qndjf9f5ga42q05migikh398as43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbkTgMXIq3Ejych5b1eFjJvE_Qz2vGk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028516352239-hv91qndjf9f5ga42q05migikh398as43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
