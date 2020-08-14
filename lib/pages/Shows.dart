@@ -16,7 +16,7 @@ class ShowsPageState extends State<ShowsPage> {
   @override
   void initState() {
     _controller = VideoPlayerController.network(
-        "https://github.com/AntenehDev/KseEvents/blob/master/Assets/GDGAddis.mp4?raw=true");
+        "https://github.com/AntenehDev/KseEvents/blob/master/assets/GDGAddis.mp4?raw=true");
     _initializeVideoPlayerFuture = _controller.initialize();
     _controller.setLooping(true);
     _controller.setVolume(1.0);
